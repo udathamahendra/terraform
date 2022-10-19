@@ -1,2 +1,4 @@
 echo  "Hello file-ui"
+echo  "Hello file-ui"
+echo "Hello this is added from cli"
 echo "Hello this is added from cli"
